@@ -1,6 +1,6 @@
 # nuxt-axios
 
-nuxtでaxiosを操作する練習
+nuxtでaxiosを扱う練習
 
 ## Build Setup
 
