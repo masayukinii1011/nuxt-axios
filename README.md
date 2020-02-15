@@ -1,6 +1,6 @@
 # nuxt-axios
 
-> My spectacular Nuxt.js project
+nuxtでaxiosを操作する練習
 
 ## Build Setup
 
